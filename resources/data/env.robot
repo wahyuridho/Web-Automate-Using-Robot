@@ -11,5 +11,5 @@ ${empty}
 
 
 ${errorMsgNotMatch}        Epic sadface: Username and password do not match any user in this service
-${errorMsgUserEmpty}   Epic sadface: Username is required
+${errorMsgUserEmpty}       Epic sadface: Username is required
 ${errorMsgPwdEmpty}        Epic sadface: Password is required
